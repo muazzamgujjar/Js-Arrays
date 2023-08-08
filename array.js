@@ -116,11 +116,11 @@ console.log(a2)
 // })
 // console.log(b)
 
-let a = ("Enter the value of a")
+let a = ("Enter the value of a");
 a = Number.parseInt(a)
-a =prompt(  ) =>{
-
-}
+a =new prompt()=>{
+console.log("gujjar");
+};
 
 
 
